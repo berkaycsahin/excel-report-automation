@@ -4,6 +4,8 @@ Farklı şubelerden **farklı formatlarda** gelen satış Excel'lerini tek komut
 
 *Merges messy sales spreadsheets from multiple branches (different column names, date formats, typos, duplicates) into one clean, formatted Excel report with charts — in one click.*
 
+![Önce / sonra](docs/once-sonra.png)
+
 ## Çözdüğü sorunlar
 
 | Gerçek hayattaki sorun | Örnek | Program ne yapıyor |
@@ -23,6 +25,8 @@ Farklı şubelerden **farklı formatlarda** gelen satış Excel'lerini tek komut
 - **Günlük**: günlük ciro trendi (çizgi grafik)
 - **Temiz Veri**: birleştirilmiş, filtrelenebilir tüm kayıtlar
 - **İşlem Kaydı**: kaç satır silindi/atlandı. Müşteri hiçbir verinin sessizce kaybolmadığını görür
+
+![Rapor önizleme](docs/rapor.png)
 
 ## Kullanım
 
